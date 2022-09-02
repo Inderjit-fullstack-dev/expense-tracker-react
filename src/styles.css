@@ -1,0 +1,9 @@
+.danger-light {
+    background-color: #f7d0d4;
+}
+.success-light {
+    background-color: #dcf7ea;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
